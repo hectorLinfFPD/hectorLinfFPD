@@ -23,10 +23,10 @@
 <br>
 <br>
 
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="70%" valign="top">
-      
+</div>
+
+<img align="right" alt="coding-gif" width="300" src="https://github.com/user-attachments/assets/0f94eaa0-d3a6-4992-a049-27ad5d20917c" />
+
 ¡Hola! Soy **Héctor Oswaldo Mendoza**, estudiante de **Lic. en Informática en la UAQ**. 
 Más que un desarrollador, soy un aprendiz constante con la firme convicción de que la persistencia supera al talento.
 
@@ -38,14 +38,7 @@ Más que un desarrollador, soy un aprendiz constante con la firme convicción de
 * 🚵 **Hobbies:** Cuando no estoy frente a la terminal, estoy en las rutas de Querétaro.
 
 <br>
-</td>
-    <td width="30%" valign="middle" align="center">
-      <br><br>
-      <img src="https://github.com/user-attachments/assets/0f94eaa0-d3a6-4992-a049-27ad5d20917c" width="100%" style="max-width: 200px;" alt="BIT_VIRUS" />
-    </td>
-  </tr>
-</table>
-
+<img src="https://img.shields.io/badge/-00FF00?style=flat&logo=none&labelColor=00FF00" width="100%" height="2px">
 <br>
 
 <h3 align="center">
