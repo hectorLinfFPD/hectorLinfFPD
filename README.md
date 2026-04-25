@@ -25,9 +25,9 @@
 
 </div>
 
-<img align="right" alt="coding-gif" width="300" src="https://github.com/user-attachments/assets/0f94eaa0-d3a6-4992-a049-27ad5d20917c" />
+<img align="right" alt="coding-gif" width="300" src="https://github.com/user-attachments/assets/0f94eaa0-d3a6-4992-a049-27ad5d20917c"/>
 
-¡Hola! Soy **Héctor Oswaldo Mendoza**, estudiante de **Lic. en Informática en la UAQ**. 
+¡Hola! Soy **Héctor Oswaldo**, estudiante de **Lic. en Informática en la UAQ**. 
 Más que un desarrollador, soy un aprendiz constante con la firme convicción de que la persistencia supera al talento.
 
 <br>
