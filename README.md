@@ -62,8 +62,14 @@ Más que un desarrollador, soy un aprendiz constante con la firme convicción de
 </h3>
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hectorLinfFPD&theme=dracula&hide_current_streak=true)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=hectorLinfFPD&theme=dracula&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=hectorLinfFPD&theme=dracula&hide_current_streak=true" alt="GitHub Streak" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=hectorLinfFPD&theme=dracula&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" />
+  </a>
+</p>
 
 <br>
 <br>
