@@ -1,49 +1,55 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/aedac81b-7da7-4446-a707-a4504dab3da3" width="100%" height="400px" style="object-fit: cover; max-width: 850px;">
-</div>
-
+  <img alt="headerGit" src="https://github.com/user-attachments/assets/9b611c9e-5e48-4b15-882c-3f87cf5ec910" width="100%" height="400px" style="object-fit: cover; max-width: 1000px;/>
+    
 <br>
-
-<img src="https://img.shields.io/badge/-00FF00?style=flat&logo=none&labelColor=00FF00" width="100%" height="2px">
-
 <br>
 
 <p align="center">
-  <a href="TU_LINK_DE_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00&labelColor=000000"></a>
-  <a href="TU_LINK_DE_INSTAGRAM"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=00FF00&labelColor=000000"></a>
-  <a href="TU_URL_PORTAFOLIO"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=google-chrome&logoColor=00FF00&labelColor=000000"></a>
-  <a href="TU_LINK_GOOGLE_DRIVE_CV"><img src="https://img.shields.io/badge/DOWNLOAD_CV-000000?style=for-the-badge&logo=read-the-docs&logoColor=00FF00&labelColor=000000"></a>
+  <a href="TU_LINK_DE_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=EFDE3&labelColor=000000"></a>
+  <a href="TU_LINK_DE_INSTAGRAM"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=EDFE3&labelColor=000000"></a>
+  <a href="TU_URL_PORTAFOLIO"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=google-chrome&logoColor=EFDE3&labelColor=000000"></a>
+  <a href="TU_LINK_GOOGLE_DRIVE_CV"><img src="https://img.shields.io/badge/DOWNLOAD_CV-000000?style=for-the-badge&logo=read-the-docs&logoColor=EFDE3&labelColor=000000"></a>
 </p>
-
-<h2 align="left">
-   👾 About Me
-</h2>
-<img src="https://img.shields.io/badge/-00FF00?style=flat&logo=none&labelColor=00FF00" width="100%" height="2px">
+</div>
 
 <br>
+
+
+<div>
+<h2 align="left">👾 About Me</h2>
+
+<table>
+  <tr>
+    <td valign="top">
+
+**Héctor Mendez**, estudiante de **Lic. en Informática en la UAQ**.
+
+Dirijo **Glyph.work**, un espacio de experimentación con letras, formas y código.
 <br>
+ > Ciberseguridad,
+ > Desarrollo web,
+ > y DevOps
+
+
+   </td>
+    <td align="right" valign="top" width="300">
+      <img width="360" height="360" alt="glyph_ojos_sinesquinas" src="https://github.com/user-attachments/assets/a1a10cbf-542a-4e16-a420-1a9b2eaae60b" />
+    </td>
+  </tr>
+</table>
+</td>
 
 </div>
 
-<img align="right" alt="coding-gif" width="300" src="https://github.com/user-attachments/assets/0f94eaa0-d3a6-4992-a049-27ad5d20917c"/>
 
-¡Hola! Soy **Héctor Oswaldo**, estudiante de **Lic. en Informática en la UAQ**. 
-Más que un desarrollador, soy un aprendiz constante con la firme convicción de que la persistencia supera al talento.
 
 <br>
-
-* 🎯 **Mi Enfoque:** Crear soluciones robustas e impenetrables, priorizando la integridad de los datos y la arquitectura limpia en cada línea de código.
-* 📚 **En formación:** Desarrollo con **C#**, **.NET** y ecosistemas modernos con **Vite**, gestionando entornos de despliegue mediante **WSL 2** y **Docker**.
-* 💻 **Tech Enthusiast:** Disfruto la optimización de hardware y software; actualmente operando desde una **ThinkPad** configurada para alto rendimiento.
-* 🚵 **Hobbies:** Cuando no estoy frente a la terminal, estoy en las rutas de Querétaro.
-
-<br>
-<img src="https://img.shields.io/badge/-00FF00?style=flat&logo=none&labelColor=00FF00" width="100%" height="2px">
 <br>
 
-<h3 align="center">
-   🛠️ Languages & Tools | Have place my hands on
-</h3>
+<h2 align="center">
+   Languages & Tools
+</h2>
+
 <br>
 <br>
 
@@ -57,9 +63,10 @@ Más que un desarrollador, soy un aprendiz constante con la firme convicción de
 <br>
 <br>
 
-<h3 align="center">
-   📊 Github Stats
-</h3>
+
+<h2 align="center">
+    Github Stats
+</h2>
 <br>
 
 <p align="center">
@@ -74,9 +81,9 @@ Más que un desarrollador, soy un aprendiz constante con la firme convicción de
 <br>
 <br>
 
-<h3 align="center">
-   🚀 Tech Stack
-</h3>
+<h2 align="center">
+   Tech Stack
+</h2>
 <br>
 <br>
 
@@ -130,7 +137,7 @@ Más que un desarrollador, soy un aprendiz constante con la firme convicción de
 <br>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/a9c21951-2b79-42ee-909c-483b72494667" width="100%" height="180px" style="object-fit: cover; max-width: 850px;">
+ <img alt="footer" src="https://github.com/user-attachments/assets/94a7c7cb-4d95-4d45-96f4-9411d7ecf34a" width="100%" height="110px" style="object-fit: cover; max-width: 850px;"/>
 </div>
 
 
